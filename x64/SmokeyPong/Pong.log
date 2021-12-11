@@ -1,0 +1,7 @@
+﻿  Ball.cpp
+C:\VS Projects\Pong\Ball.h(2,10): fatal error C1083: Non è possibile aprire il file inclusione: 'SFML\Graphics.hpp': No such file or directory
+  Paddle.cpp
+C:\VS Projects\Pong\Paddle.h(2,10): fatal error C1083: Non è possibile aprire il file inclusione: 'SFML\Graphics.hpp': No such file or directory
+  Pong.cpp
+C:\VS Projects\Pong\Paddle.h(2,10): fatal error C1083: Non è possibile aprire il file inclusione: 'SFML\Graphics.hpp': No such file or directory
+  Generazione del codice in corso...

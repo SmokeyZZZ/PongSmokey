@@ -1,0 +1,89 @@
+﻿'Pong.exe' (Win32): caricamento di 'C:\VS Projects\Pong\Debug\Pong.exe' completato. Simboli caricati.
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\ntdll.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\kernel32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\KernelBase.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\VS Projects\Pong\sfml-graphics-d-2.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\VS Projects\Pong\sfml-window-d-2.dll' completato. 
+'Pong.exe' (Win32): scaricamento di 'C:\VS Projects\Pong\sfml-window-d-2.dll' completato
+'Pong.exe' (Win32): caricamento di 'C:\VS Projects\Pong\sfml-system-d-2.dll' completato. 
+'Pong.exe' (Win32): scaricamento di 'C:\VS Projects\Pong\sfml-system-d-2.dll' completato
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\msvcp140d.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\vcruntime140d.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\ucrtbased.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\opengl32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\msvcrt.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\advapi32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\sechost.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\rpcrt4.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\user32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\win32u.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\gdi32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\gdi32full.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\msvcp_win.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\ucrtbase.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\combase.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\glu32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\VS Projects\Pong\sfml-window-d-2.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\VS Projects\Pong\sfml-system-d-2.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\winmm.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\imm32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\uxtheme.dll' completato. 
+Il thread 0x2674 è terminato con il codice 0 (0x0).
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\msctf.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\oleaut32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\kernel.appcore.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\bcryptprimitives.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\clbcatq.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\AppXDeploymentClient.dll' completato. 
+'Pong.exe' (Win32): scaricamento di 'C:\Windows\SysWOW64\AppXDeploymentClient.dll' completato
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\AppXDeploymentClient.dll' completato. 
+'Pong.exe' (Win32): scaricamento di 'C:\Windows\SysWOW64\AppXDeploymentClient.dll' completato
+'Pong.exe' (Win32): caricamento di 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1c83a5d7cffd7bff\nvoglv32.dll' completato. 
+'Pong.exe' (Win32): scaricamento di 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1c83a5d7cffd7bff\nvoglv32.dll' completato
+'Pong.exe' (Win32): caricamento di 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1c83a5d7cffd7bff\nvoglv32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\shell32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\setupapi.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\cfgmgr32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\bcrypt.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\ole32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\wtsapi32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\version.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\msasn1.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\cryptnet.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\crypt32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\cryptbase.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\devobj.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\wintrust.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\ntmarta.dll' completato. 
+Il thread 0x2d74 è terminato con il codice 0 (0x0).
+Il thread 0x3a54 è terminato con il codice 0 (0x0).
+Il thread 0x3de4 è terminato con il codice 0 (0x0).
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\DXCore.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\windows.storage.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\wldp.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\SHCore.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\shlwapi.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\nvspcap.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\profapi.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\dwmapi.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\powrprof.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\umpdc.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\winsta.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\dinput8.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\hid.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\InputHost.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\CoreMessaging.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\ws2_32.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\propsys.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\WinTypes.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\CoreUIComponents.dll' completato. 
+'Pong.exe' (Win32): caricamento di 'C:\Windows\SysWOW64\TextInputFramework.dll' completato. 
+Il thread 0x2d40 è terminato con il codice 0 (0x0).
+Il thread 0x16b8 è terminato con il codice 0 (0x0).
+Il thread 0x23e8 è terminato con il codice 0 (0x0).
+Il thread 0x2cbc è terminato con il codice 0 (0x0).
+Il thread 0x3c5c è terminato con il codice 0 (0x0).
+Il thread 0x2854 è terminato con il codice 0 (0x0).
+Il thread 0x350c è terminato con il codice 0 (0x0).
+Il thread 0x2308 è terminato con il codice 0 (0x0).
+Il programma '[13880] Pong.exe' è terminato con il codice 0 (0x0).
